@@ -1423,6 +1423,7 @@ header > .container > ul > li > a:hover {
     padding: 20px;
     border-top: 1px solid #ddd;
     background-color: white;
+    cursor: pointer;
 }
 
 .video .holder .list ul li span {
